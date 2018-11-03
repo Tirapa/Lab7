@@ -17,7 +17,7 @@ import java.util.List;
 public class MySQLConnect {
     private final Activity main;
     private List<String> list;
-    private String URL = "http://",GET_URL = "htdocs/get_post.php" , SENT_URL = "htdocs/sent_post.php";
+    private String URL = "http://10.66.231.88",GET_URL = "htdocs/get_post.php" , SENT_URL = "htdocs/sent_post.php";
 
     public MySQLConnect (Activity mainA){
         main = mainA;
