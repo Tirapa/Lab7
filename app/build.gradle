@@ -27,5 +27,5 @@ dependencies {
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
     implementation 'eu.the4thfloor.volley:com.android.volley:2015.05.28'
-    implementation "com.example.admin.lab7/com.example.admin.lab7.MainActivity" 
+
 }
